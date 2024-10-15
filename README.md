@@ -38,6 +38,6 @@ Run the test suite using `go test`.
 
 Here’s a demo video showing the code execution:
 
-[Watch the demo video here](../demo/Demo.mp4)
+[Watch the demo video here](./demo/Demo.mp4)
 
 
