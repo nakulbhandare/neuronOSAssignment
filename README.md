@@ -1,7 +1,7 @@
 # Commander Application
 
 ## Overview
-A cross-platform command execution application capable of executing system commands like network ping and getting system info.
+A cross-platform command execution application can execute system commands like network ping and getting system info.
 
 ## Build Instructions
 1. Clone the repo.
@@ -31,3 +31,13 @@ For macOS:
 
 ## Testing
 Run the test suite using `go test`.
+
+## Execution Demo
+
+## Demo Video
+
+Here’s a demo video showing the code execution:
+
+[Watch the demo video here](../demo/yourvideo.mp4)
+
+
