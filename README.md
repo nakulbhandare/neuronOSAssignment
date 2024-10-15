@@ -38,6 +38,8 @@ Run the test suite using `go test`.
 
 Here’s a demo video showing the code execution:
 
-[Watch the demo video here](./demo/Demo.mp4)
+https://github.com/user-attachments/assets/ddf6c6e0-8d09-4a2a-851a-c18277dca868
+
+
 
 
