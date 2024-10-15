@@ -26,6 +26,7 @@ curl -X POST http://localhost:8080/execute \
 ## Installation Guide
 For macOS:
 1. Run `installer.sh` to create the `.pkg` installer.
+2. Run the Command `./commander`
 
 
 ## Testing
